@@ -1,0 +1,13 @@
+* Links
+  - [[https://felix.lipski.xyz][my website]]
+* Lesson 1
+  Introducing the package manager
+  - Melpa
+  - Set up Melpa
+  - installed try
+
+* Lesson 2
+  Show some org-mode
+  - init.el
+  - set up Readme.org
+
