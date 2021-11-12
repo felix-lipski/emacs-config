@@ -4,7 +4,7 @@
   Introducing the package manager
   - Melpa
   - Set up Melpa
-  - installed try
+  - installed tryy
 
 * Lesson 2
   Show some org-mode
